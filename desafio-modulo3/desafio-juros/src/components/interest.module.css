@@ -1,0 +1,22 @@
+.interest {
+  height: 150px;
+  width: 200px;
+  border: 1px solid black;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.interestDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+  padding: 5px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
